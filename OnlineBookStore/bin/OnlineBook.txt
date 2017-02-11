@@ -1,0 +1,4 @@
+Professional C# 4.0 and .NET 4 | Christian Nagel; Bill Evjen; Jay Glynn; Karli Watson; Morgan Skinner | 978-1430225492 | 37.79 | 10 | http://www.amazon.co.uk/dp/1430225491
+Programming Entity Framework | Julia Lerman | 9780596520298 | 54.99 | 12 |
+Microsoft Silverlight 4 For Dummies | Phillip Beadle; Mahesh Krishnan | 978-0-470-52465-7 | 29.99 | 5 | http://my.safaribooksonline.com/9780470524657
+Beginning Visual C# 2010 | Karli Watson, Christian Nagel, Jacob Hammer Pedersen, Jon D. Reid, Morgan Skinner | 978-8126526291 | 38.48 | 8 |

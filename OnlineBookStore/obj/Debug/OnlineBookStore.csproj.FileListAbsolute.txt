@@ -1,0 +1,6 @@
+D:\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+D:\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+D:\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+D:\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+D:\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+D:\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
