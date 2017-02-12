@@ -4,3 +4,13 @@ D:\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
 D:\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
 D:\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
 D:\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\EntityFramework.dll
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\EntityFramework.xml
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\OnlineBookStore\Text-file-to-Database\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
