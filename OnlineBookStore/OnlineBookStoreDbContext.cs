@@ -12,6 +12,11 @@ namespace OnlineBookStore
     class OnlineBookStoreDbContext : DbContext
     {
 
+        public OnlineBookStoreDbContext() : base("name=OnlineBookStoreDbContext")
+        {
+
+        }
+
         public DbSet<Book> Book { get; set; }
         public DbSet<Author> Author { get; set; }
         public DbSet<BooksAuthors> BooksAuthors { get; set; }
